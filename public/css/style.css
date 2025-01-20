@@ -1,0 +1,34 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #000; /* Black background */
+    color: #fff; /* White text */
+}
+
+h1 {
+    color: #007bff;
+    font-size: 3rem;
+}
+
+p {
+    color: #6c757d;
+    font-size: 1.2rem;
+}
+
+.btn {
+    padding: 0.5rem 1.5rem;
+    background-color: #007bff;
+    color: grey;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+.hero {
+    background-image: url('/images/peakxps.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
